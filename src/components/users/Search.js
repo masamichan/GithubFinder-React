@@ -28,7 +28,7 @@ const Search = () => {
         <input
           type="text"
           name="text"
-          placeholder="Search Users..."
+          placeholder="Gitのアカウントを検索してみてください"
           value={text}
           onChange={onChange}
         />
