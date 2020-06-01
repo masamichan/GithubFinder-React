@@ -10,4 +10,6 @@
 
 ・Reducer の使用
 
+・デプロイは netlify を使用
+
 https://priceless-kare-f47f99.netlify.app
